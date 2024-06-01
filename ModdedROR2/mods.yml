@@ -1009,4 +1009,28 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\SeahorseJerky-Wait_For_All_Ready_Votes\1.0.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\SeahorseJerky-Wait_For_All_Ready_Votes\icon.png
+- manifestVersion: 1
+  name: Pipman3000-TeleporterShowRedux
+  authorName: Pipman3000
+  websiteUrl: https://thunderstore.io/package/Pipman3000/TeleporterShowRedux/
+  displayName: TeleporterShowRedux
+  description: Shows the teleporter if you have 'discovered' it, pinged it, or all
+    the time if you change the config.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - tristanmcpherson-R2API-4.0.11
+    - bbepis-BepInExPack-5.4.1903
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Pipman3000-TeleporterShowRedux\1.0.4\icon.png

@@ -1,0 +1,7 @@
+{
+  "name": "TeleporterShowRedux",
+  "version_number": "1.0.4",
+  "website_url": "",
+  "description": "Shows the teleporter if you have 'discovered' it, pinged it, or all the time if you change the config.",
+  "dependencies": [ "bbepis-BepInExPack-5.4.1903", "tristanmcpherson-R2API-4.0.11", "RiskofThunder-HookGenPatcher-1.2.3" ]
+}
