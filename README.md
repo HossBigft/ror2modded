@@ -41,4 +41,5 @@ List of mods:<br>
  NoBossRepeat  1.0.0<br>
  EliteAdjustments  0.1.1<br>
  DropinMultiplayer  3.0.0<br>
+ Quality_of_Rain  1.1.0<br>
 
