@@ -1173,4 +1173,26 @@
     minor: 7
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\HIFU-Inferno\1.7.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\HIFU-Inferno\icon.png
+- manifestVersion: 1
+  name: KingEnderBrine-ProperSave
+  authorName: KingEnderBrine
+  websiteUrl: https://thunderstore.io/package/KingEnderBrine/ProperSave/
+  displayName: ProperSave
+  description: Saves your progress at the start of the stage so you can load later
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.1905
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 10
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\KingEnderBrine-ProperSave\2.10.0\icon.png

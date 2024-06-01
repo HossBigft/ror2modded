@@ -51,4 +51,5 @@ List of mods:<br>
  Risk_Of_Options  2.8.0<br>
  LobbySkinsFix  1.2.1<br>
  Inferno  1.7.1<br>
+ ProperSave  2.10.0<br>
 
