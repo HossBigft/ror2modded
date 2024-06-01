@@ -1055,4 +1055,27 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\kking117-ConsumedBuff\1.2.4\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\kking117-ConsumedBuff\icon.png
+- manifestVersion: 1
+  name: jiejasonliu-Reconsume
+  authorName: jiejasonliu
+  websiteUrl: https://thunderstore.io/package/jiejasonliu/Reconsume/
+  displayName: Reconsume
+  description: Restore consumed items at the beginning of each stage and also
+    allow them to be scrapped.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.9
+    - tristanmcpherson-R2API-4.0.11
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\jiejasonliu-Reconsume\1.0.2\icon.png
