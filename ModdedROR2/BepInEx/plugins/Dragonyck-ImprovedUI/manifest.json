@@ -1,0 +1,9 @@
+{
+	"name": "ImprovedUI",
+	"version_number": "1.2.1",
+	"website_url": "",
+	"description": "Adds full item descriptions, scrollable Command panel, as well as a pause, DPS meter, survivor stats, item counters, buff timer, fully configurable.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2113"
+	]
+}
