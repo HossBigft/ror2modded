@@ -1,0 +1,9 @@
+{
+    "name": "Wait_For_All_Ready_Votes",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Adjusts the multiplayer ready-check to wait for all players to ready up before starting the timer",
+    "dependencies": [
+      "bbepis-BepInExPack-5.4.1902"
+    ]
+}

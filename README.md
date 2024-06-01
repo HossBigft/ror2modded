@@ -43,4 +43,5 @@ List of mods:<br>
  Quality_of_Rain  1.1.0<br>
  ImprovedUI  1.2.1<br>
  SillyItems  1.3.2<br>
+ Wait_For_All_Ready_Votes  1.0.1<br>
 
