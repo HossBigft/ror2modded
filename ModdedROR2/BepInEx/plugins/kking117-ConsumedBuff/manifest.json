@@ -1,0 +1,10 @@
+{
+    "name": "ConsumedBuff",
+    "version_number": "1.2.4",
+    "website_url": "https://github.com/kking117/RoR2-kking117Mods",
+    "description": "Gives effects to consumed items for a bit more use.",
+    "dependencies": [
+      "bbepis-BepInExPack-5.4.1905",
+	  "tristanmcpherson-R2API-4.4.1"
+    ]
+}
