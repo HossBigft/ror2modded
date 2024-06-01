@@ -1195,4 +1195,27 @@
     minor: 10
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\KingEnderBrine-ProperSave\2.10.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-ProperSave\icon.png
+- manifestVersion: 1
+  name: MagnusMagnuson-BiggerBazaar
+  authorName: MagnusMagnuson
+  websiteUrl: https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/
+  displayName: BiggerBazaar
+  description: Expands the Bazaar with random items that can be bought with money
+    you have left at the end of the stage (now lunar coins, too).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - tristanmcpherson-R2API-4.4.1
+    - bbepis-BepInExPack-5.4.2103
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 13
+    patch: 13
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\MagnusMagnuson-BiggerBazaar\1.13.13\icon.png

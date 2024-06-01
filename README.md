@@ -52,4 +52,5 @@ List of mods:<br>
  LobbySkinsFix  1.2.1<br>
  Inferno  1.7.1<br>
  ProperSave  2.10.0<br>
+ BiggerBazaar  1.13.13<br>
 
