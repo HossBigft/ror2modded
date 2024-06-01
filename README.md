@@ -47,4 +47,8 @@ List of mods:<br>
  TeleporterShowRedux  1.0.4<br>
  ConsumedBuff  1.2.4<br>
  Reconsume  1.0.2<br>
+ AI_Blacklist  1.6.2<br>
+ Risk_Of_Options  2.8.0<br>
+ LobbySkinsFix  1.2.1<br>
+ Inferno  1.7.1<br>
 
