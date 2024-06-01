@@ -1241,4 +1241,26 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Moffein-ItemStats\1.3.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-ItemStats\icon.png
+- manifestVersion: 1
+  name: Fr4nsson-MultiplayerPause
+  authorName: Fr4nsson
+  websiteUrl: https://thunderstore.io/package/Fr4nsson/MultiplayerPause/
+  displayName: MultiplayerPause
+  description: Allows you to pause in multiplayer, type pause in chat or press
+    CTRL + P to pause.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Fr4nsson-MultiplayerPause\1.0.2\icon.png

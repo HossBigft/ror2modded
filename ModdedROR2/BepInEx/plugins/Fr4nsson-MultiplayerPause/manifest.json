@@ -1,0 +1,9 @@
+﻿{
+	"name": "MultiplayerPause",
+	"version_number": "1.0.2",
+	"website_url": "https://github.com/Fr4nsson/MyROR2Plugins",
+	"description": "Allows you to pause in multiplayer, type pause in chat or press CTRL + P to pause.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9"
+	]
+}
