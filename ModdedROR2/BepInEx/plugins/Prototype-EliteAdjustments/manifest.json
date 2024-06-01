@@ -1,0 +1,10 @@
+{
+	"name": "EliteAdjustments",
+	"version_number": "0.1.1",
+	"website_url": "https://thunderstore.io/package/Prototype/EliteAdjustments/wiki",
+	"description":
+		"Upper-tier elites and elite bosses will occasionally appear earlier than normal.",
+	"dependencies": [
+			"bbepis-BepInExPack-5.4.2100"
+		]
+}

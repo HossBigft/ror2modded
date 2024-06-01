@@ -1,0 +1,10 @@
+{
+    "name": "NoBossRepeat",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Moffein/RiskyMod/blob/master/RiskyMod/Tweaks/RunScaling/NoBossRepeat.cs",
+    "description": "Makes Teleporter bosses less likely to repeat between stages. Server-Side and Vanilla-Compatible!",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1905",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+}

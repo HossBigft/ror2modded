@@ -1,0 +1,10 @@
+/*
+/*/
+!/.gitignore
+!ModdedROR2
+!ModdedROR2/**
+**/*.log
+**/cache/**
+!/modListGenerator.ps1
+!/README.md
+!/.gitattributes

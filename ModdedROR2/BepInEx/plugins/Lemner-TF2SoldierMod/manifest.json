@@ -1,0 +1,10 @@
+{
+    "name": "TF2SoldierMod",
+    "version_number": "1.3.0",
+    "website_url": "",
+    "description": "Adds The Soldier from Team Fortress 2 - the Rocket-Jumping Specialist. Updated for SotV! Now with new weapons!",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.9",
+        "tristanmcpherson-R2API-4.3.2"
+    ]
+}

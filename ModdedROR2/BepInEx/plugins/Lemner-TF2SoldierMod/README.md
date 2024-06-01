@@ -1,0 +1,312 @@
+
+
+# TF2 Soldier Mod
+
+Adds the Soldier from TF2, ready for any war that comes his way.
+
+
+# Overview
+
+The Soldier is a mobile survivor that can use his tools to reposition himself, or aid his allies.
+
+
+# About
+This mod is a work in progress! 
+My experience with the mod creation process is very limited, so *expect jank.*
+Network functionality hasn't been tested much, so multiplayer may not function as intended.
+
+![SoldierOverview](https://i.imgur.com/mvkc1bb.png)
+Something weird or unexpected happen? Did a bug I thought I fixed just pop up? Have some feedback regarding balance, ideas, or general questions? Feel free to contact and tell me!
+
+# To Do:
+- Add additional skins
+- Add a visual to the Disciplinary Action
+- Test networking more thoroughly
+- Make things look more pretty
+- Clean up code/implementations
+- Tap into the limitless potential of alternate weapons
+
+# Known Issues:
+- Animations are somewhat janky
+- Wax Quails don't impact Soldier's sprint jumps.
+- Certain animations may be missing in multiplayer. The player should be able to see them, but not others.
+- Rocket Projectiles might not line up with their "physical forms" exactly in multiplayer. (i.e., the rocket can look like it hit for no damage, when it actually misses)
+- Certain sounds may be missing in multiplayer.
+- Shotguns can now be used during certain actions. (Technically not an issue, but is unintended.)
+
+# Special Thanks
+- Rob for the Henry Template	
+- wellme for Quake/Source movement via Mint Tea
+- The RoR2 Modding Discord	
+- Valve / Team Fortress 2 Team	
+
+# Contact Me
+- Discord: Lemner#4765	
+
+# Changelog 
+- `1.3.0`
+	- *Balance Changes*
+		- **Passive**
+			- Added falloff to self damage taken from Rocket Jumping 
+			- Increased maximum self damage from rocket jumps (15% -> 35%).
+			- Soldier now has an innate 40% fall damage resistance.
+		- **Primary**
+			- **General**
+				- Added a custom damage falloff model. (Damage scales from 100% to 60% over the radius. Directs do full damage.)
+				- Added a reload system. Works similar to normal cooldowns, but scales with attack speed. (See Bandit)
+				- Rockets now apply a small amount of vertical knockback.
+			- **Air Strike**
+				- Lowered number of kills required to increase stock (8 -> 6)
+			- **Beggars Bazooka**
+				- Slightly reduced delay to start loading rockets.
+				- Slightly reduced delay between loaded rockets.
+				- Added Functionality: 
+					- Rockets apply a debuff that increases damage taken from subsequent rockets. (1.5x damage modifier for first stack, plus .5 per stack.)
+		- **Secondary**
+			- **Shotguns**
+				- Added a reload system. Works similar to normal cooldowns, but scales with attack speed. (See Bandit)
+			- **Reserve Shooter**
+				- Now grants mini-crits to any airborne enemy (i.e. No longer just ones that are "Flying" like Wisps, so a Beetle Guard using a Geyser now counts.)
+				- Added Functionality:
+					- Damage to airborne enemies also has a 10% chance to apply a bleed (per pellet, scales with luck)
+					- Damage to airborne enemies inflicts Death Mark for 5 seconds.
+			- **Manntreads**
+				- Removed damage falloff.
+		- **Utility**
+			- **Concheror**
+				- Lowered Lifesteal amount (35% -> 20%)
+				- Increased Movespeed bonus amount (25% -> 50%)
+			- **Battalion's Backup**
+				- Lowered cooldown (45 seconds -> 40 seconds)
+			- **Buff Banner**
+				- Increased attack speed bonus (10% -> 50%)
+				- Lowered cooldown (45 seconds -> 35 seconds)
+		- **Special**
+			- **Market Gardener**
+				- Decreased base damage when Rocket Jumping (2750% -> 2500%)
+			- **Disciplinary Action**
+				- Increased Buff duration (20 seconds -> 40 seconds)
+				- Increased Damage modifier for Soldier when near Motivated allies. (10% each -> 25% each)
+	- *Visuals/Sounds*
+		- Changed the sound for selecting Soldier in the character select menu.
+		- Added sounds/animations to accompany the new reloading systems.
+	- *Bug Fixes*
+		- **General**
+			- Fixed a bug where having 1hp and any shields (i.e. through Transendence) would still proc Death Resist.
+			- Added spacial attentuation to some sounds.
+			- Lowered the volume of some sounds again.
+- `1.2.0`
+	- *Balance Changes*
+		- I've been playing around with a additional concepts to mostly help the more overshadowed parts of Soldier's kit stand out a bit more. Let me know what you think!
+		- **Primary**
+			- **Beggar's Bazooka**
+				- Reduced the initial delay between clicking the button and loading the first rocket.
+				- Firing rate now scales with attack speed.
+				- Lowered projectile variance (5 degrees -> 4 degrees)
+		- **Secondary**
+			- **Shotgun**
+				- Cooldown reduced (2.2 seconds -> 1 second)
+				- Cooldown timer begins after shooting
+				- Bumped damage back up (9x60% -> 9x65%)
+			- **Reserve Shooter**
+				- Cooldown reduced (2.1 seconds -> 1 second)
+				- Cooldown timer begins after shooting
+				- Removed damage falloff
+				- Reduced pellet spread
+			- **Mantreads**
+				- The stomp attack is now a guaranteed crit.
+		- **Utility**
+			- **Banners**
+				- Increased radius.
+			- **Battalion's Backup**
+				- Reworked Death Resistance: Now when taking a fatal hit, gain a buff that makes you unkillable for a few seconds. This has a cooldown of 30 seconds.
+			- **B.A.S.E. Jumper**
+				- Increases damage dealt by 1.2x while active
+				- Increases attack speed by 1.2x while active
+				- Upward vertical movement (double jumps, knockback, etc) is no longer slowed/mitigated.
+				- Increased deceleration further.
+		- **Special**
+			- **General**
+				- Made the hitbox slightly taller, and shifted it to encompass Soldier's body a bit more
+			- **Disciplinary Action**
+				- Reworked:
+					- Shifted the ally-whip hitbox forward slightly.
+					- Hitting an ally cleanses them of most negative effects (Cooldowns such as Bands, Safer Spaces, and Battalion's death resist does not count)
+					- Hitting an ally grants the Motivated buff, with the following benefits:
+						- 1.25x Damage multiplier
+						- 1.5x Move Speed multiplier
+						- 50% flat attack speed
+						- 30% flat crit chance
+						- 1 bonus jump
+					- Soldier gains an additional 10% damage multiplier for each motivated ally nearby (The player themself does not count)
+			- **Half-Zatoichi**
+				- Reworked:
+					- Increased attack power (300% -> 550%)
+					- Lowered healing recieved on hit (15% -> 5%)
+					- Healing recieved on hit now applies to every enemy damaged.
+					- Grants healing when killing an enemy (40% of max hp)
+					- Lowered efficacy of overheal by 50% (eg, a 100 health heal will grant 50 barrier if your health is full)
+					- Added a "Dueling" mechanic:
+						- Hitting an enemy that shares an elite affix with you does big damage(5x and guaranteed crit) and has a chance to execute them outright (scales with luck).
+						- Hitting an enemy has a chance to steal their elite affix (does not refresh duration of existing affixes, scales with luck).
+						- Killing an enemy steals their elite affix (also doesn't refresh duration).
+	- *Visuals/Sounds*
+		- Added new icons for the banners
+	- *Bug Fixes*
+		- **Visuals**
+			- Fixed particles being huge when Soldier recieved certain DoTs.
+		- **Banners**
+			- Fixed an issue where multiple charges were being consumed when using the skill.
+			- Fixed Soldier's little jig when using the skill.
+- `1.1.2`
+	- *Bug Fixes*
+		- **General**
+			- Fixed a bug where the Brainstalks buff wouldn't be applied.
+			- Restricted automatic B-hopping to Soldier
+		- **Beggars Bazooka**
+			- Addressed an oversight where remaining grounded during Overload Jumps gave you the Rocket Jumping status.
+		- **Half Zatoichi**
+			- Fixed a bug where other Overlap Attacks (i.e. Kjaro's Band) could proc the Zatoichi's heal.
+- `1.1.1`
+	- *Quality of Life*
+		- **Movement**
+			- Added a configuration setting for MintTea automatically B-hopping (turned off by default).
+		- **Air Strike**
+			- Added a configurable grace period for gaining stacks off an enemy that dies after taking damage from this ability (default is one second).
+- `1.1.0`
+	- *New Weapons/Features!*
+		- **Mini Crits**
+			- Damage does 1.5x the usual amount, and counts towards as a regular crit for on-crit items like Harvester's Scythe!
+			- Is overridden by regular critical hits.
+		- **Pocket I.C.B.M. Support**
+			- With at least one stack, each time you fire your primary (minus the Rocket Jumper), fire 2 more!
+			- Each subsequent stack increases the damage rockets deal by 50%.
+			- *Note: these additional rockets do not damage/affect you.
+		- **Reserve Shooter**
+			- Deals slightly less damage than the standard Shotgun and has less starting ammo, but deal mini crits on flying targets!
+		- **Buff Banner**
+			- Give yourself and everyone around you guaranteed mini crits and more attack speed!
+		- **Battalion's Backup**
+			- Give yourself and everyone around you a large amount of armor and the chance to survive lethal damage!
+		- **Disciplinary Action**
+			- If you hit your teammate(s) with it, both they and you recieve a buff to attack speed, crit chance, and movement speed!
+	- *Tweaks*
+		- **Primaries**
+			- Changed the damage falloff model (Linear -> None).
+		- **Rocket Launcher**
+			- Lowered power to compensate for falloff (700% -> 600%)
+		- **Beggar's Bazooka**
+			- Lowered power to compensate for falloff (800% -> 700%)
+		- **Air Strike**
+			- Lowered power to compensate for falloff (425% -> 400%)
+		- **Shotgun**
+			- Lowered power (9 X 65% -> 9 X 60%)
+			- Tweaked pellets to not fire in a circle.
+		- **Concheror**
+			- Increased movement speed bonus (20% -> 25%)
+			- Increased banner duration (12.5 seconds -> 15 seconds)
+		- **BASE Jumper** 
+			- Now automatically deactivates when landing.
+		- **Market Gardener**
+			- Lowered power when Rocket Jumping (6000% -> 2750%)
+			- Provides a guaranteed critical hit when Rocket Jumping.
+	- *Misc*
+		- Added a "Power Down" sound effect to the buffs.
+		- Reintroduced MintTea's B-hopping leniency frame.
+		- Tweaked weapon descriptions.
+		- Lowered the volume of certain sounds.
+		- Fixed an issue where Wax Quail had no effect on other Survivors.
+			- Note* This doesn't apply to Soldier! Wax Quails (unintentionally) do not affect him.
+- `1.0.2`
+	- **General Fixes**
+		- Made a potential fix for the issue where rocket jumping off of enemies led to more force than intended.
+		- Applied a maximum force that a single rocket jump can apply. This is intended to make rocket jumping more consistent in general, and make jumping off slopes/map geometry not send the player flying.
+		- Lowered Soldier's SFX slightly.
+	- **Manntreads**
+		- Tweaked values to compensate for the above fixes.
+	- **Base Jumper**
+		- Greatly increased the deceleration rate (i.e. You go from your falling speed to the parachute's "hovering speed" much faster, and don't accelerate due to gravity while active).
+		- Slightly increased the target speed the parachute tries to set the player to.
+	- **Half Zatoichi**
+		- Fixed a few states where the Zatoichi was visible when other weapons have been fired.
+- `1.0.1`
+	- **General**
+		- Slightly boosted the force of Rocket Jumps
+	- **Air Strike**	
+		- Increased the damage dealt (400% -> 425%)
+	- **Manntreads**
+		- Greatly increased the damage dealt (50% - 1500% -> 1500% - 4000%)
+		- Changed the damage falloff calculation (SweetSpot -> Linear), should yield more consistent numbers
+		- Increased the velocity threshold required for activation
+- `1.0.0`
+	- Quake/Source-like movement baked into Soldier, courtesy of the wellme and the Mint Tea mod! Features:
+		- Bunnyhopping to conserve momentum
+		- Air Strafing changes
+		- Air Acceleration changes
+	- Added new weapons!
+		- Primary
+			- **Beggars Bazooka**: Charge up and fire up to 3 rockets! Complete with Overload Jumping.
+			- **Rocket Jumper**: Fire a rocket doing no damage to enemies or yourself!
+			- **Air Strike**: Fire weaker rockets, but fire faster when rocket jumping! Gain a higher clip size as you get kills!
+		- Secondary
+			- **Manntreads**: No direct attack, but damage enemies when landing on/near them and moving fast enough! Also take no fall damage!
+		- Utility
+			- **Base Jumper**: Toggle a parachute that slows your descent!
+		- Special:
+			- **Half Zatoichi**: Swing a katana that heals you when hitting at least one enemy!
+	- Added a new skin! Enjoy being BLU Soldier! 
+	- Tweaks!
+		- Rocket Launcher
+			- Deals less knockback to enemies, so they slide around less on the ground.
+			- Tweaked the blast force from rocket jumping a bit to compensate for the Source movement.
+			- Lowered the speed of rockets slightly.
+		- Concheror
+			- No longer actionable (but it is still mobile)
+		- Market Gardener
+			- No longer pops you up when hitting an enemy when airborne.
+		- Visuals/Sounds
+			-  Fixed bugs around Soldier's model, such as:
+				- Made Soldier and his weapons less shiny
+				- Shield/freeze/tar effects being missing
+				- Soldier being visible when he shouldn't be (e.g. Teleporting, using Strides of Heresy)
+				- Aligned bubble-effects (like Oddly Shaped Opal and Barriers) to more closely match the model.
+			- Fixed some overlapping animations.
+			- Tweaked the volume of some sounds.
+			- Fixed buff icons being missing.
+			- Added a sound when picking Soldier in the menu.	
+- `0.2.1`		
+	- Made some fixes for the SotV update.		
+- `0.2.0`	
+	- Decreased the power of the Rocket Launcher slightly (800% -> 700%) 	
+	- Decreased the power of the Shotgun slightly (9 x 70% -> 9 x 65%) and lowered Proc Coefficent (is now .5 per bullet) 	
+	- Decreased the power of the Market Gardener (8000% -> 6000%) (I wanted to reign it in a bit, but still keep it satisfying to use) 	
+	- Made the Concheror mobile/actionable. (note: actionable is something of an unintended side-effect) 	
+	- Consolidated the Lifesteal buff into the actual conch buff 	
+	- Reorganized and changed rocket jumping implementation to (hopefully) be more client-friendly. 	
+- `0.1.7`  	
+	- Increased the power of the Rocket Launcher significantly (500% -> 800%)  
+	- Decreased the power of the Shotgun slightly (9 x 80% -> 9 x 70%)  
+	- ~~Tweaked Rocket Jumping implementation in an effort to fix clientside Rocket Jumping~~  
+- `0.1.6`  
+	- Gave Soldier a janky ragdoll, that should fix the problems with players being locked in the death state	       	
+- `0.1.5(Special Thanks to Blazer Nitrox from the Modding Discord for all the help with dealing with a bunch of issues on this one!)`     	  
+	- ~~Added a promising potential fix for multiplayer rocket jumping.~~    
+	- Added a promising potential fix for getting locked out of abilities.    
+	- Tougher Times no longer blocks the knockback for rocket jumping.  
+	- Increased the aim range for Soldier, allowing him to shoot straight up/down.  
+	- Handled some issues with SkinUI.  
+- `0.1.4`   
+	- ~~Added another potential fix for multiplayer rocket jumping.~~ `Still no.`  	
+	- Added a potential fix for being able to spam Primary and use the Special endlessly.  
+	- Added a potential fix for items like Crowbar and Focus Crystal being activated when Rocket Jumping  
+	- Fixed an 'issue' where the damage of the Rocket Launcher was using the wrong value (1600% -> 500%)  
+	- Lowered the damage of the Shotgun (9 x 90% -> 9 x 80%)  
+	- 
+- `0.1.3`  
+	- ~~Added a potential fix for multiplayer rocket jumping.~~  `Not Fixed Here!`  
+	- ~~Added a potential fix for being locked out of using the Secondary / Special abilities after using the Utility.~~  `Not Fixed Here!`  
+- `0.1.2`  
+	- Tweaked the readme  
+- `0.1.0`  
+	- Initial Release  
+
