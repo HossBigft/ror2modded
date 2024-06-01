@@ -33,7 +33,6 @@ List of mods:<br>
  R2API  5.0.5<br>
  TeammateRevival  4.1.4<br>
  ShareSuite  2.8.1<br>
- ItemStats  1.3.1<br>
  FasterBossWait2  1.1.5<br>
  QoLChests  1.1.8<br>
  Exchange_Changes  1.0.8<br>
@@ -43,4 +42,5 @@ List of mods:<br>
  DropinMultiplayer  3.0.0<br>
  Quality_of_Rain  1.1.0<br>
  ImprovedUI  1.2.1<br>
+ SillyItems  1.3.2<br>
 
