@@ -1446,4 +1446,32 @@
     minor: 2
     patch: 12
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Gnome-ChefMod\2.2.12\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Gnome-ChefMod\icon.png
+- manifestVersion: 1
+  name: EnforcerGang-Enforcer
+  authorName: EnforcerGang
+  websiteUrl: https://thunderstore.io/package/EnforcerGang/Enforcer/
+  displayName: Enforcer
+  description: Adds the Enforcer from Risk of Rain 1 as a fully fleshed out
+    playable survivor.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - RiskofThunder-R2API_Unlockable-1.0.0
+    - RiskofThunder-R2API_RecalculateStats-1.0.0
+    - RiskofThunder-R2API_Director-1.0.0
+    - RiskofThunder-R2API_DamageType-1.0.0
+    - RiskofThunder-R2API_Prefab-1.0.1
+    - RiskofThunder-R2API_Core-5.0.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 8
+    patch: 2
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-Enforcer\3.8.2\icon.png
