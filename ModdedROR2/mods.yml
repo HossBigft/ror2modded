@@ -1526,4 +1526,27 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\prodzpod-RealerCheatUnlocks\1.0.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\prodzpod-RealerCheatUnlocks\icon.png
+- manifestVersion: 1
+  name: rob_gaming-Ravager
+  authorName: rob_gaming
+  websiteUrl: https://thunderstore.io/package/rob_gaming/Ravager/
+  displayName: Ravager
+  description: Adds the Ravager, a mobile melee bruiser focused on healing through
+    overwhelming violence. Translation update
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-5.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 19
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\rob_gaming-Ravager\1.3.19\icon.png
