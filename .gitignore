@@ -5,6 +5,6 @@
 !ModdedROR2/**
 **/*.log
 **/cache/**
-!/RoR2modListGenerator.ps1
+!/ror2modListGenerator.ps1
 !/README.md
 !/.gitattributes
