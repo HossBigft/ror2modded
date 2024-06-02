@@ -54,5 +54,5 @@ List of mods:<br>
  ProperSave  2.10.0<br>
  BiggerBazaar  1.13.13<br>
  ItemStats  1.3.1<br>
- PhotoMode  1.4.2<br>
+ PauseInMultiplayer  1.0.9<br>
 
