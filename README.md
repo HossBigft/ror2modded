@@ -63,4 +63,5 @@ List of mods:<br>
  Tesla_Trooper  2.2.3<br>
  ChefMod  2.2.12<br>
  Enforcer  3.8.2<br>
+ JinxMod  1.2.5<br>
 

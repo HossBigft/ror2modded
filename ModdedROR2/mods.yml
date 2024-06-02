@@ -1474,4 +1474,33 @@
     minor: 8
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-Enforcer\3.8.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
+- manifestVersion: 1
+  name: lemonlust-JinxMod
+  authorName: lemonlust
+  websiteUrl: https://thunderstore.io/package/lemonlust/JinxMod/
+  displayName: JinxMod
+  description: Jinx? Stands for Jinx! Durr.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.1905
+    - RiskofThunder-R2API_Core-5.0.0
+    - RiskofThunder-R2API_Sound-1.0.0
+    - RiskofThunder-R2API_RecalculateStats-1.0.0
+    - RiskofThunder-R2API_Prefab-1.0.0
+    - RiskofThunder-R2API_Networking-1.0.0
+    - RiskofThunder-R2API_Language-1.0.0
+    - RiskofThunder-R2API_DamageType-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 5
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\lemonlust-JinxMod\1.2.5\icon.png
