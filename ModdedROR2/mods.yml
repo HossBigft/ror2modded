@@ -1243,24 +1243,25 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-ItemStats\icon.png
 - manifestVersion: 1
-  name: Fr4nsson-MultiplayerPause
-  authorName: Fr4nsson
-  websiteUrl: https://thunderstore.io/package/Fr4nsson/MultiplayerPause/
-  displayName: MultiplayerPause
-  description: Allows you to pause in multiplayer, type pause in chat or press
-    CTRL + P to pause.
+  name: cabally-CommandPause
+  authorName: cabally
+  websiteUrl: https://thunderstore.io/package/cabally/CommandPause/
+  displayName: CommandPause
+  description: pauses the game world to allow you to spend your time choosing so
+    you don't feel rushed(works for scrapper and artifact of command)
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.9
+    - bbepis-BepInExPack-5.3.1
+    - tristanmcpherson-R2API-2.5.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 2
     minor: 0
-    patch: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Fr4nsson-MultiplayerPause\1.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\cabally-CommandPause\2.0.0\icon.png
