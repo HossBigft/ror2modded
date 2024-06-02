@@ -56,4 +56,8 @@ List of mods:<br>
  ItemStats  1.3.1<br>
  PauseInMultiplayer  1.0.9<br>
  SniperClassic  1.5.10<br>
+ R2API_Colors  1.0.1<br>
+ MoonstormSharedUtils  1.6.3<br>
+ ScrollableLobbyUI  1.8.0<br>
+ Starstorm2  0.6.7<br>
 

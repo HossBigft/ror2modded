@@ -1287,4 +1287,111 @@
     minor: 5
     patch: 10
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-SniperClassic\1.5.10\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-SniperClassic\icon.png
+- manifestVersion: 1
+  name: RiskofThunder-R2API_Colors
+  authorName: RiskofThunder
+  websiteUrl: https://thunderstore.io/package/RiskofThunder/R2API_Colors/
+  displayName: R2API_Colors
+  description: API for registering Colors to the game
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.2109
+    - RiskofThunder-R2API_Core-5.0.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Colors\icon.png
+- manifestVersion: 1
+  name: TeamMoonstorm-MoonstormSharedUtils
+  authorName: TeamMoonstorm
+  websiteUrl: https://thunderstore.io/package/TeamMoonstorm/MoonstormSharedUtils/
+  displayName: MoonstormSharedUtils
+  description: An API focused with the intention of working in an editor
+    enviroment using ThunderKit, MSU is a modular API system designed for ease
+    of use and simplicity.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-R2API_RecalculateStats-1.2.0
+    - RiskofThunder-R2API_DamageType-1.0.4
+    - RiskofThunder-R2API_CommandHelper-1.0.1
+    - RiskofThunder-R2API_ArtifactCode-1.0.1
+    - RiskofThunder-R2API_Colors-1.0.1
+    - RiskofThunder-R2API_Core-5.0.10
+    - RiskofThunder-R2API_ContentManagement-1.0.2
+    - RiskofThunder-R2API_Elites-1.0.3
+    - Rune580-Risk_Of_Options-2.6.1
+    - RiskofThunder-R2API_Director-2.1.0
+    - RiskofThunder-R2API_Addressables-1.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TeamMoonstorm-MoonstormSharedUtils\icon.png
+- manifestVersion: 1
+  name: KingEnderBrine-ScrollableLobbyUI
+  authorName: KingEnderBrine
+  websiteUrl: https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI/
+  displayName: ScrollableLobbyUI
+  description: Adds scrolling to lobby UI (skills, loadout, character select, difficulty)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.9
+    - RiskofThunder-HookGenPatcher-1.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 8
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-ScrollableLobbyUI\icon.png
+- manifestVersion: 1
+  name: TeamMoonstorm-Starstorm2
+  authorName: TeamMoonstorm
+  websiteUrl: https://thunderstore.io/package/TeamMoonstorm/Starstorm2/
+  displayName: Starstorm2
+  description: A general content mod adapting Risk of Rain 1's Starstorm
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - KingEnderBrine-ScrollableLobbyUI-1.7.6
+    - RiskofThunder-R2API_Networking-1.0.2
+    - KingEnderBrine-LobbySkinsFix-1.2.1
+    - RiskofThunder-R2API_Dot-1.0.1
+    - RiskofThunder-R2API_Deployable-1.0.1
+    - RiskofThunder-R2API_TempVisualEffect-1.0.2
+    - RiskofThunder-R2API_Prefab-1.0.3
+    - RiskofThunder-R2API_Difficulty-1.1.2
+    - TeamMoonstorm-MoonstormSharedUtils-1.6.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 7
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\TeamMoonstorm-Starstorm2\0.6.7\icon.png
