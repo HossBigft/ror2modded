@@ -1243,25 +1243,26 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-ItemStats\icon.png
 - manifestVersion: 1
-  name: cabally-CommandPause
-  authorName: cabally
-  websiteUrl: https://thunderstore.io/package/cabally/CommandPause/
-  displayName: CommandPause
-  description: pauses the game world to allow you to spend your time choosing so
-    you don't feel rushed(works for scrapper and artifact of command)
+  name: Dragonyck-PhotoMode
+  authorName: Dragonyck
+  websiteUrl: https://thunderstore.io/package/Dragonyck/PhotoMode/
+  displayName: PhotoMode
+  description: Adds a photo mode the game with fly camera and FOV control. Now
+    with controller support and can be used in multiplayer.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.3.1
-    - tristanmcpherson-R2API-2.5.7
+    - bbepis-BepInExPack-5.4.2103
+    - RiskofThunder-R2API_Networking-1.0.2
+    - RiskofThunder-R2API_Core-5.0.6
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 0
-    patch: 0
+    major: 1
+    minor: 4
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\cabally-CommandPause\2.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Dragonyck-PhotoMode\1.4.2\icon.png
