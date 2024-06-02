@@ -65,4 +65,7 @@ List of mods:<br>
  Enforcer  3.8.2<br>
  JinxMod  1.2.5<br>
  RealerCheatUnlocks  1.0.3<br>
+ Ravager  1.3.19<br>
+ TILER2  7.4.0<br>
+ Admiral  2.5.1<br>
 
