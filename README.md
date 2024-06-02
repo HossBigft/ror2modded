@@ -61,4 +61,5 @@ List of mods:<br>
  ScrollableLobbyUI  1.8.0<br>
  Starstorm2  0.6.7<br>
  Tesla_Trooper  2.2.3<br>
+ ChefMod  2.2.12<br>
 

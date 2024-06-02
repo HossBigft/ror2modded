@@ -1424,4 +1424,26 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\TheTimesweeper-Tesla_Trooper\2.2.3\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
+- manifestVersion: 1
+  name: Gnome-ChefMod
+  authorName: Gnome
+  websiteUrl: https://thunderstore.io/package/Gnome/ChefMod/
+  displayName: ChefMod
+  description: Adds the CHEF robot from RoR1 as a survivor. Multiplayer-compatible!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 12
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Gnome-ChefMod\2.2.12\icon.png
