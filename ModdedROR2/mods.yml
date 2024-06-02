@@ -20,7 +20,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_SceneAsset\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_SceneAsset\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Items
   authorName: RiskofThunder
@@ -44,7 +44,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Items\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Items\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Prefab
   authorName: RiskofThunder
@@ -68,7 +68,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Prefab\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Prefab\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_TempVisualEffect
   authorName: RiskofThunder
@@ -92,7 +92,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_TempVisualEffect\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_TempVisualEffect\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Director
   authorName: RiskofThunder
@@ -117,7 +117,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Director\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Director\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_CommandHelper
   authorName: RiskofThunder
@@ -140,7 +140,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_CommandHelper\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_CommandHelper\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Dot
   authorName: RiskofThunder
@@ -163,7 +163,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Dot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Dot\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_LobbyConfig
   authorName: RiskofThunder
@@ -186,7 +186,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_LobbyConfig\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_LobbyConfig\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Difficulty
   authorName: RiskofThunder
@@ -209,7 +209,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Difficulty\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Difficulty\icon.png
 - manifestVersion: 1
   name: RiskofThunder-BepInEx_GUI
   authorName: RiskofThunder
@@ -230,7 +230,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-BepInEx_GUI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-BepInEx_GUI\icon.png
 - manifestVersion: 1
   name: RiskofThunder-FixPluginTypesSerialization
   authorName: RiskofThunder
@@ -251,7 +251,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-FixPluginTypesSerialization\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-FixPluginTypesSerialization\icon.png
 - manifestVersion: 1
   name: RiskofThunder-RoR2BepInExPack
   authorName: RiskofThunder
@@ -272,7 +272,7 @@
     minor: 13
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-RoR2BepInExPack\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-RoR2BepInExPack\icon.png
 - manifestVersion: 1
   name: bbepis-BepInExPack
   authorName: bbepis
@@ -295,7 +295,7 @@
     minor: 4
     patch: 2113
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\bbepis-BepInExPack\5.4.2113\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\bbepis-BepInExPack\5.4.2113\icon.png
 - manifestVersion: 1
   name: RiskofThunder-HookGenPatcher
   authorName: RiskofThunder
@@ -316,7 +316,7 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-HookGenPatcher\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-HookGenPatcher\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Core
   authorName: RiskofThunder
@@ -338,7 +338,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Core\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Core\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Skins
   authorName: RiskofThunder
@@ -362,7 +362,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Skins\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Skins\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Addressables
   authorName: RiskofThunder
@@ -385,7 +385,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Addressables\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Addressables\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Elites
   authorName: RiskofThunder
@@ -409,7 +409,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Elites\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Elites\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Loadout
   authorName: RiskofThunder
@@ -434,7 +434,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Loadout\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Loadout\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Sound
   authorName: RiskofThunder
@@ -458,7 +458,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Sound\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Sound\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Unlockable
   authorName: RiskofThunder
@@ -482,7 +482,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Unlockable\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Unlockable\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_ArtifactCode
   authorName: RiskofThunder
@@ -505,7 +505,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_ArtifactCode\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_ArtifactCode\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Deployable
   authorName: RiskofThunder
@@ -528,7 +528,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Deployable\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Deployable\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Language
   authorName: RiskofThunder
@@ -551,7 +551,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Language\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Language\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Orb
   authorName: RiskofThunder
@@ -574,7 +574,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Orb\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Orb\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_DamageType
   authorName: RiskofThunder
@@ -597,7 +597,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_DamageType\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_DamageType\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_RecalculateStats
   authorName: RiskofThunder
@@ -620,7 +620,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_RecalculateStats\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_RecalculateStats\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Networking
   authorName: RiskofThunder
@@ -643,7 +643,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Networking\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Networking\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_ContentManagement
   authorName: RiskofThunder
@@ -666,7 +666,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_ContentManagement\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_ContentManagement\icon.png
 - manifestVersion: 1
   name: tristanmcpherson-R2API
   authorName: tristanmcpherson
@@ -710,7 +710,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\tristanmcpherson-R2API\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\tristanmcpherson-R2API\icon.png
 - manifestVersion: 1
   name: KosmosisDire-TeammateRevival
   authorName: KosmosisDire
@@ -735,7 +735,7 @@
     minor: 1
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KosmosisDire-TeammateRevival\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KosmosisDire-TeammateRevival\icon.png
 - manifestVersion: 1
   name: FunkFrog-and-Sipondo-ShareSuite
   authorName: FunkFrog-and-Sipondo
@@ -759,7 +759,7 @@
     minor: 8
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\FunkFrog-and-Sipondo-ShareSuite\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\FunkFrog-and-Sipondo-ShareSuite\icon.png
 - manifestVersion: 1
   name: prodzpod-FasterBossWait2
   authorName: prodzpod
@@ -782,7 +782,7 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\prodzpod-FasterBossWait2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\prodzpod-FasterBossWait2\icon.png
 - manifestVersion: 1
   name: Faustvii-QoLChests
   authorName: Faustvii
@@ -805,7 +805,7 @@
     minor: 1
     patch: 8
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Faustvii-QoLChests\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Faustvii-QoLChests\icon.png
 - manifestVersion: 1
   name: Flyingcomputer-Exchange_Changes
   authorName: Flyingcomputer
@@ -829,7 +829,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Flyingcomputer-Exchange_Changes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Flyingcomputer-Exchange_Changes\icon.png
 - manifestVersion: 1
   name: Lemner-TF2SoldierMod
   authorName: Lemner
@@ -852,7 +852,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Lemner-TF2SoldierMod\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Lemner-TF2SoldierMod\icon.png
 - manifestVersion: 1
   name: Moffein-NoBossRepeat
   authorName: Moffein
@@ -875,7 +875,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-NoBossRepeat\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-NoBossRepeat\icon.png
 - manifestVersion: 1
   name: Prototype-EliteAdjustments
   authorName: Prototype
@@ -897,7 +897,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Prototype-EliteAdjustments\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Prototype-EliteAdjustments\icon.png
 - manifestVersion: 1
   name: niwith-DropinMultiplayer
   authorName: niwith
@@ -920,7 +920,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\niwith-DropinMultiplayer\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\niwith-DropinMultiplayer\icon.png
 - manifestVersion: 1
   name: VanillaChai-Quality_of_Rain
   authorName: VanillaChai
@@ -942,7 +942,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\VanillaChai-Quality_of_Rain\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\VanillaChai-Quality_of_Rain\icon.png
 - manifestVersion: 1
   name: Dragonyck-ImprovedUI
   authorName: Dragonyck
@@ -965,7 +965,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Dragonyck-ImprovedUI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Dragonyck-ImprovedUI\icon.png
 - manifestVersion: 1
   name: TheTimesweeper-SillyItems
   authorName: TheTimesweeper
@@ -987,7 +987,7 @@
     minor: 3
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TheTimesweeper-SillyItems\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TheTimesweeper-SillyItems\icon.png
 - manifestVersion: 1
   name: SeahorseJerky-Wait_For_All_Ready_Votes
   authorName: SeahorseJerky
@@ -1009,7 +1009,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\SeahorseJerky-Wait_For_All_Ready_Votes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\SeahorseJerky-Wait_For_All_Ready_Votes\icon.png
 - manifestVersion: 1
   name: Pipman3000-TeleporterShowRedux
   authorName: Pipman3000
@@ -1033,7 +1033,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Pipman3000-TeleporterShowRedux\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Pipman3000-TeleporterShowRedux\icon.png
 - manifestVersion: 1
   name: kking117-ConsumedBuff
   authorName: kking117
@@ -1055,7 +1055,7 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\kking117-ConsumedBuff\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\kking117-ConsumedBuff\icon.png
 - manifestVersion: 1
   name: jiejasonliu-Reconsume
   authorName: jiejasonliu
@@ -1078,7 +1078,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\jiejasonliu-Reconsume\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\jiejasonliu-Reconsume\icon.png
 - manifestVersion: 1
   name: Moffein-AI_Blacklist
   authorName: Moffein
@@ -1101,7 +1101,7 @@
     minor: 6
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-AI_Blacklist\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-AI_Blacklist\icon.png
 - manifestVersion: 1
   name: Rune580-Risk_Of_Options
   authorName: Rune580
@@ -1122,7 +1122,7 @@
     minor: 8
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Rune580-Risk_Of_Options\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Rune580-Risk_Of_Options\icon.png
 - manifestVersion: 1
   name: KingEnderBrine-LobbySkinsFix
   authorName: KingEnderBrine
@@ -1143,7 +1143,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-LobbySkinsFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-LobbySkinsFix\icon.png
 - manifestVersion: 1
   name: HIFU-Inferno
   authorName: HIFU
@@ -1173,7 +1173,7 @@
     minor: 7
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\HIFU-Inferno\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\HIFU-Inferno\icon.png
 - manifestVersion: 1
   name: KingEnderBrine-ProperSave
   authorName: KingEnderBrine
@@ -1195,7 +1195,7 @@
     minor: 10
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-ProperSave\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-ProperSave\icon.png
 - manifestVersion: 1
   name: MagnusMagnuson-BiggerBazaar
   authorName: MagnusMagnuson
@@ -1218,7 +1218,7 @@
     minor: 13
     patch: 13
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\MagnusMagnuson-BiggerBazaar\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\MagnusMagnuson-BiggerBazaar\icon.png
 - manifestVersion: 1
   name: Moffein-ItemStats
   authorName: Moffein
@@ -1241,7 +1241,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-ItemStats\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Moffein-ItemStats\icon.png
 - manifestVersion: 1
   name: Constant-ine-PauseInMultiplayer
   authorName: Constant-ine
@@ -1264,7 +1264,7 @@
     minor: 0
     patch: 9
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Constant-ine-PauseInMultiplayer\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Constant-ine-PauseInMultiplayer\icon.png
 - manifestVersion: 1
   name: EnforcerGang-SniperClassic
   authorName: EnforcerGang
@@ -1287,7 +1287,7 @@
     minor: 5
     patch: 10
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-SniperClassic\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-SniperClassic\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Colors
   authorName: RiskofThunder
@@ -1310,7 +1310,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Colors\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Colors\icon.png
 - manifestVersion: 1
   name: TeamMoonstorm-MoonstormSharedUtils
   authorName: TeamMoonstorm
@@ -1343,7 +1343,7 @@
     minor: 6
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TeamMoonstorm-MoonstormSharedUtils\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TeamMoonstorm-MoonstormSharedUtils\icon.png
 - manifestVersion: 1
   name: KingEnderBrine-ScrollableLobbyUI
   authorName: KingEnderBrine
@@ -1365,7 +1365,7 @@
     minor: 8
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-ScrollableLobbyUI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\KingEnderBrine-ScrollableLobbyUI\icon.png
 - manifestVersion: 1
   name: TeamMoonstorm-Starstorm2
   authorName: TeamMoonstorm
@@ -1394,7 +1394,7 @@
     minor: 6
     patch: 7
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TeamMoonstorm-Starstorm2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TeamMoonstorm-Starstorm2\icon.png
 - manifestVersion: 1
   name: TheTimesweeper-Tesla_Trooper
   authorName: TheTimesweeper
@@ -1424,7 +1424,7 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
 - manifestVersion: 1
   name: Gnome-ChefMod
   authorName: Gnome
@@ -1446,7 +1446,7 @@
     minor: 2
     patch: 12
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Gnome-ChefMod\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Gnome-ChefMod\icon.png
 - manifestVersion: 1
   name: EnforcerGang-Enforcer
   authorName: EnforcerGang
@@ -1474,7 +1474,7 @@
     minor: 8
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
 - manifestVersion: 1
   name: lemonlust-JinxMod
   authorName: lemonlust
@@ -1503,4 +1503,27 @@
     minor: 2
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\lemonlust-JinxMod\1.2.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\lemonlust-JinxMod\icon.png
+- manifestVersion: 1
+  name: prodzpod-RealerCheatUnlocks
+  authorName: prodzpod
+  websiteUrl: https://thunderstore.io/package/prodzpod/RealerCheatUnlocks/
+  displayName: RealerCheatUnlocks
+  description: Right-click unlockables to unlock/relock them. AFFECTS STEAM/EGS
+    ACHIEVEMENTS!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.2103
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\prodzpod-RealerCheatUnlocks\1.0.3\icon.png
