@@ -55,4 +55,5 @@ List of mods:<br>
  BiggerBazaar  1.13.13<br>
  ItemStats  1.3.1<br>
  PauseInMultiplayer  1.0.9<br>
+ SniperClassic  1.5.10<br>
 
