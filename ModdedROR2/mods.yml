@@ -1599,4 +1599,27 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\ThinkInvis-Admiral\2.5.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\ThinkInvis-Admiral\icon.png
+- manifestVersion: 1
+  name: rob_gaming-Driver
+  authorName: rob_gaming
+  websiteUrl: https://thunderstore.io/package/rob_gaming/Driver/
+  displayName: Driver
+  description: Adds the Driver, a mostly grounded survivor focused on simple
+    gunplay. Huge community QoL update!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-5.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\rob_gaming-Driver\1.7.3\icon.png
