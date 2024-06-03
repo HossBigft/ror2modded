@@ -12,11 +12,11 @@ List of mods:<br>
  R2API_Difficulty  1.1.2<br>
  BepInEx_GUI  3.0.3<br>
  FixPluginTypesSerialization  1.0.4<br>
- RoR2BepInExPack  1.13.0<br>
- BepInExPack  5.4.2113<br>
+ RoR2BepInExPack  1.14.0<br>
+ BepInExPack  5.4.2114<br>
  HookGenPatcher  1.2.3<br>
  R2API_Core  5.1.0<br>
- R2API_Skins  1.1.0<br>
+ R2API_Skins  1.1.1<br>
  R2API_Addressables  1.0.3<br>
  R2API_Elites  1.0.3<br>
  R2API_Loadout  1.0.2<br>
