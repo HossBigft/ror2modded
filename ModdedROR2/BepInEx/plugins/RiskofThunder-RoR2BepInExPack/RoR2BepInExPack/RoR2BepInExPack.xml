@@ -4,6 +4,14 @@
         <name>RoR2BepInExPack</name>
     </assembly>
     <members>
+        <member name="T:RoR2BepInExPack.VanillaFixes.FixHasEffectiveAuthority">
+            <summary>
+            On a server there is a short time when authority is not assigned yet the object should have authority.
+            Which is the reason for Captain to sometimes not have supply beacon charges.
+            HasEffectiveAuthority makes additional checks to see if object should have authority but not enough.
+            fix: check if clientAuthorityOwner is of type ULocalConnectionToClient
+            </summary>
+        </member>
         <member name="E:RoR2BepInExPack.VanillaFixes.SaferAchievementManager.OnRegisterAchievementAttributeFound">
             <summary>
             Called for each type that implement <see cref="T:RoR2.Achievements.BaseAchievement"/>,
