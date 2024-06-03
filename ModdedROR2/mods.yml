@@ -354,15 +354,15 @@
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
     - bbepis-BepInExPack-5.4.2109
-    - RiskofThunder-R2API_Core-5.0.11
+    - RiskofThunder-R2API_Core-5.1.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Skins\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\RiskofThunder-R2API_Skins\1.1.1\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_Addressables
   authorName: RiskofThunder

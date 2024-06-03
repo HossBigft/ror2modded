@@ -24,6 +24,15 @@
             <param name="ruleSet"></param>
             <returns>True if added succesfully, false otherwise</returns>
         </member>
+        <member name="M:R2API.SkinIDRS.AddGroupOverride(RoR2.SkinDef,UnityEngine.Object,RoR2.DisplayRuleGroup)">
+            <summary>
+            Adds a displayRuleGroup override for ItemDef/EquipmentDef. If there was no IDRS for the skin, a clone of the IDRS from CharacterModel from a body prefab will be taken as base.
+            </summary>
+            <param name="skinDef"></param>
+            <param name="keyAsset">ItemDef/EquipmentDef</param>
+            <param name="displayRuleGroup"></param>
+            <returns></returns>
+        </member>
         <member name="M:R2API.Skins.CreateSkinIcon(UnityEngine.Color,UnityEngine.Color,UnityEngine.Color,UnityEngine.Color)">
             <summary>
             Creates a skin icon sprite styled after the ones already in the game.
