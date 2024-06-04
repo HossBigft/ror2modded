@@ -69,4 +69,6 @@ List of mods:<br>
  TILER2  7.4.0<br>
  Admiral  2.5.1<br>
  Driver  1.7.3<br>
+ ShaderSwapper  1.0.1<br>
+ Interrogator  0.5.2<br>
 
