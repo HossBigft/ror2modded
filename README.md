@@ -71,4 +71,5 @@ List of mods:<br>
  Driver  1.7.3<br>
  ShaderSwapper  1.0.1<br>
  Interrogator  0.5.2<br>
+ ProceduralStages  1.13.0<br>
 
