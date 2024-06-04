@@ -1702,4 +1702,27 @@
     minor: 13
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Lawlzee-ProceduralStages\1.13.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Lawlzee-ProceduralStages\icon.png
+- manifestVersion: 1
+  name: Risky_Lives-RiskyMod
+  authorName: Risky_Lives
+  websiteUrl: https://thunderstore.io/package/Risky_Lives/RiskyMod/
+  displayName: RiskyMod
+  description: A full game rebalance that aims to bring the game closer to RoR1.
+    Highly configurable!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-4.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 8
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.8\icon.png
