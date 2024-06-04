@@ -1754,4 +1754,27 @@
     minor: 20
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\kking117-FlatItemBuff\1.20.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\kking117-FlatItemBuff\icon.png
+- manifestVersion: 1
+  name: Wolfo-VanillaArtifactsPlus
+  authorName: Wolfo
+  websiteUrl: https://thunderstore.io/package/Wolfo/VanillaArtifactsPlus/
+  displayName: VanillaArtifactsPlus
+  description: Updates a lot of vanilla Artifacts to make them more interesting.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.9
+    - RiskofThunder-HookGenPatcher-1.2.1
+    - tristanmcpherson-R2API-5.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 4
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Wolfo-VanillaArtifactsPlus\2.5.4\icon.png

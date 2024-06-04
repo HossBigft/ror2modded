@@ -74,4 +74,5 @@ List of mods:<br>
  ProceduralStages  1.13.0<br>
  RiskyMod  1.6.8<br>
  FlatItemBuff  1.20.3<br>
+ VanillaArtifactsPlus  2.5.4<br>
 
