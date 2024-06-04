@@ -1725,4 +1725,33 @@
     minor: 6
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
+- manifestVersion: 1
+  name: kking117-FlatItemBuff
+  authorName: kking117
+  websiteUrl: https://thunderstore.io/package/kking117/FlatItemBuff/
+  displayName: FlatItemBuff
+  description: Rebalances/Buffs some items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.2103
+    - RiskofThunder-R2API_DamageType-1.0.4
+    - RiskofThunder-R2API_Orb-1.0.1
+    - RiskofThunder-R2API_Language-1.0.1
+    - RiskofThunder-R2API_Dot-1.0.1
+    - RiskofThunder-R2API_Deployable-1.0.1
+    - RiskofThunder-R2API_Prefab-1.0.3
+    - RiskofThunder-R2API_RecalculateStats-1.3.0
+    - RiskofThunder-R2API_ContentManagement-1.0.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 20
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\kking117-FlatItemBuff\1.20.3\icon.png
