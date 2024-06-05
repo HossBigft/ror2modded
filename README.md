@@ -70,9 +70,9 @@ List of mods:<br>
  Admiral  2.5.1<br>
  Driver  1.7.3<br>
  ShaderSwapper  1.0.1<br>
- Interrogator  0.5.2<br>
- ProceduralStages  1.13.0<br>
+ Interrogator  0.5.4<br>
  RiskyMod  1.6.8<br>
  FlatItemBuff  1.20.3<br>
  VanillaArtifactsPlus  2.5.4<br>
+ SwampMiniboss  1.0.0<br>
 
