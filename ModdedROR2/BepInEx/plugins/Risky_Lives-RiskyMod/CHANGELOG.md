@@ -1,3 +1,16 @@
+`1.6.9`
+
+- Allies
+	- DroneMeld Regen Scaling is now disabled by default. (Existing config unaffected)
+	
+- Items
+	- Berzerker's Pauldron
+		- Increased boost per stack from +12% -> +15%
+		- Increased buff duration from 4s -> 6s
+		
+- Assists
+	- Now counts Vanilla's On-Multikill effects. (ex. Berzerker's Pauldron, and any other modded items that rely on the same trigger)
+
 `1.6.8`
 
 - Defense Nucleus
