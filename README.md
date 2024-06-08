@@ -62,7 +62,7 @@ List of mods:<br>
  Starstorm2  0.6.7<br>
  Tesla_Trooper  2.2.3<br>
  ChefMod  2.2.12<br>
- Enforcer  3.8.3<br>
+ Enforcer  3.8.4<br>
  JinxMod  1.2.5<br>
  RealerCheatUnlocks  1.0.3<br>
  Ravager  1.3.19<br>
@@ -70,7 +70,7 @@ List of mods:<br>
  Admiral  2.5.1<br>
  Driver  1.7.3<br>
  ShaderSwapper  1.0.1<br>
- RiskyMod  1.6.8<br>
+ RiskyMod  1.6.9<br>
  FlatItemBuff  1.20.4<br>
  VanillaArtifactsPlus  2.5.4<br>
  SwampMiniboss  1.0.0<br>

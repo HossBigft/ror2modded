@@ -1472,9 +1472,9 @@
   versionNumber:
     major: 3
     minor: 8
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-Enforcer\3.8.4\icon.png
 - manifestVersion: 1
   name: lemonlust-JinxMod
   authorName: lemonlust
@@ -1666,7 +1666,7 @@
     minor: 6
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
 - manifestVersion: 1
   name: kking117-FlatItemBuff
   authorName: kking117
