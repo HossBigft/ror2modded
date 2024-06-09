@@ -73,5 +73,5 @@ List of mods:<br>
  RiskyMod  1.6.9<br>
  FlatItemBuff  1.20.4<br>
  VanillaArtifactsPlus  2.5.4<br>
- SwampMiniboss  1.0.0<br>
+ SwampMiniboss  1.0.1<br>
 

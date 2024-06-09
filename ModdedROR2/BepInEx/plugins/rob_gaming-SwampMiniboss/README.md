@@ -8,5 +8,8 @@ Multiplayer compatible
 
 ## Changelog
 
+`1.0.1`
+- Boss now uses ambient level or something (what does this even do?)
+
 `1.0.0`
 - Initial Release

@@ -1,6 +1,6 @@
 {
     "name": "SwampMiniboss",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "",
     "description": "Adds a new miniboss to Wetland Aspect, similar to the Elder Lemurians found in Abandoned Aqueduct.",
     "dependencies": [

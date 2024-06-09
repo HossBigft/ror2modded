@@ -1474,7 +1474,7 @@
     minor: 8
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-Enforcer\3.8.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
 - manifestVersion: 1
   name: lemonlust-JinxMod
   authorName: lemonlust
@@ -1738,6 +1738,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\rob_gaming-SwampMiniboss\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\rob_gaming-SwampMiniboss\1.0.1\icon.png
