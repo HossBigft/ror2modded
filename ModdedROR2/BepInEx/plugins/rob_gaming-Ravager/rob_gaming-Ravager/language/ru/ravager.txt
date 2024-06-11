@@ -35,7 +35,7 @@
  	 "ROB_RAVAGER_BODY_CANCEL_DESCRIPTION": "Останавливает использование текущего навыка.",
 
  	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_NAME": "Заколоть",
- 	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "Взмахивает мечом спереди от себя, нанося <style=cIsDamage>230% урона</style>. Использование при <style=cIsUtility>подготовке прыжка от стены</style> ставит Губителя в <style=cIsDamage>стойку захвата</style>.",
+ 	 "ROB_RAVAGER_BODY_PRIMARY_SLASH_DESCRIPTION": "Взмахивает мечом спереди от себя, нанося <style=cIsDamage>230% урона</style>. Использование при <style=cIsUtility>подготовке прыжка от стены</style> ставит Губителя в <style=cIsDamage>стойку удержания</style>.",
      "ROB_RAVAGER_BODY_PRIMARY_SLASHCOMBO_NAME": "Разнести",
      "ROB_RAVAGER_BODY_PRIMARY_SLASHCOMBO_DESCRIPTION": "Взмахивает мечом спереди от себя, нанося <style=cIsDamage>180% урона</style>. Каждое 3 попадание <style=cIsUtility>оглушает</style> и наносит <style=cIsDamage>390% урона</style>.",
  	 "ROB_RAVAGER_BODY_SECONDARY_SPINSLASH_NAME": "Разрубить",
@@ -59,7 +59,7 @@
 	 "ROB_RAVAGER_BODY_SPECIAL_THROW_NAME": "Швырнуть",
 	 "ROB_RAVAGER_BODY_SPECIAL_THROW_DESCRIPTION": "Нырните вперёд, чтобы <style=cIsUtility>схватить</style> всех ближайших врагов, а затем бросить их, нанося им <style=cIsDamage>1000% урона</style> при столкновении. Если этот навык убьёт врага, <style=cIsHealth>Губитель поглотит</style> его, чтобы восстановить <style=cIsHealing>10% от максимального запаса здоровья</style>.",
  
-     "KEYWORD_REDGUY_M12": "<style=cKeywordName>Стойка захвата</style><style=cSub>При подготовке прыжка от стены, Губитель встаёт в <style=cIsUtility>стойку захвата</style>. Остановите подготовку, чтобы взахнуть мечом, нанося до <style=cIsDamage>5-кратного урона</style>. Урон зависит от вашего ускорения в момент прыжка.",
+     "KEYWORD_REDGUY_M12": "<style=cKeywordName>Стойка удержания</style><style=cSub>При подготовке прыжка от стены, Губитель встаёт в <style=cIsUtility>стойку захвата</style>. Остановите подготовку, чтобы взахнуть мечом, нанося до <style=cIsDamage>5-кратного урона</style>. Урон зависит от вашего ускорения в момент прыжка.",
 	 "KEYWORD_REDGUY_M1": "<style=cKeywordName>Усиленный эффект</style><style=cSub>Взмахи меча становятся быстрее.",
 	 "KEYWORD_REDGUY_M2": "<style=cKeywordName>Усиленный эффект (наземный)</style><style=cSub>Успешные попадания по врагам позволяют <style=cIsUtility>нырять дальше</style> и <style=cIsDamage>увеличивают наносимый вами урон на 50%</style>. Накапливается.",
 	 "KEYWORD_REDGUY_M2B": "<style=cKeywordName>Усиленный эффект (в воздухе)</style><style=cSub>Наносит больше урона <style=cIsUtility>с низким запасом здоровья.</style> Нырки имеют большую дальность.",
@@ -83,7 +83,7 @@
 	 
 	 "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_UNLOCKABLE_NAME": "Губитель: по огненному следу",
      "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_NAME": "Губитель: по огненному следу",
-     "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Губителя, впечатайте 3 и более врагов в землю одним захватом.",
+     "ROB_RAVAGER_BODY_PUNCH_UNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Губителя, впечатайте одного врага в землю 3 раза.",
      
 	 "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_UNLOCKABLE_NAME": "Губитель: голодный чувак",
      "ROB_RAVAGER_BODY_THROW_UNLOCKABLE_ACHIEVEMENT_NAME": "Губитель: голодный чувак",
@@ -97,9 +97,9 @@
 	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_ACHIEVEMENT_NAME": "Губитель: мастер-мартышка",
 	 "ROB_RAVAGER_BODY_WALLJUMP_UNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Губителя, пропрыгайте по стенам 20 раз, не касаясь земли.",
 	 
-	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_UNLOCKABLE_NAME": "Губитель: мои чуваки",
-	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_NAME": "Губитель: мои чуваки",
-	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Губителя, призовите 15 союзников.",
+	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_UNLOCKABLE_NAME": "Губитель: все мои чуваки",
+	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_NAME": "Губитель: все мои чуваки",
+	 "ROB_RAVAGER_BODY_SUIT_UNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Губителя, призовите 15 миньонов.",
 	 
 	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_UNLOCKABLE_NAME": "Губитель: из ничего",
 	 "ROB_RAVAGER_BODY_VOID_UNLOCKABLE_ACHIEVEMENT_NAME": "Губитель: из ничего",
