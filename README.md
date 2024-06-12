@@ -50,7 +50,7 @@ List of mods:<br>
  AI_Blacklist  1.6.2<br>
  Risk_Of_Options  2.8.0<br>
  LobbySkinsFix  1.2.1<br>
- Inferno  1.7.1<br>
+ Inferno  1.7.2<br>
  ProperSave  2.10.0<br>
  BiggerBazaar  1.13.13<br>
  ItemStats  1.3.1<br>

@@ -1,7 +1,11 @@
+# 1.7.2 Patch Notes
+- Fixed Mercenary skin breaking due to Devotion Update (they really had to reoder array indices instead of appending to the end) (also I think the Devotion Update skin is just a worse version of the Headless merc :shrug:)
+
 # 1.7.1 Patch Notes
 - Added extra compatibility for EclipseExtended
 - Added difficulty icon swap for Infernal Eclipse
 - Updated the localization files
+
 
 # 1.7.0 Patch Notes
 - Added Infernal Eclipse (configurable ofc)
