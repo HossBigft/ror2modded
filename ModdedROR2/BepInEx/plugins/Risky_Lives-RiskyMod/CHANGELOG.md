@@ -1,3 +1,8 @@
+`1.6.10`
+
+- Symbiotic Scorpion
+	- Fixed self-proc on self-damage.
+
 `1.6.9`
 
 - Allies
