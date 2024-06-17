@@ -70,7 +70,7 @@ List of mods:<br>
  Admiral  2.5.1<br>
  Driver  1.7.3<br>
  ShaderSwapper  1.0.1<br>
- RiskyMod  1.6.10<br>
+ RiskyMod  1.6.11<br>
  FlatItemBuff  1.20.4<br>
  VanillaArtifactsPlus  2.5.4<br>
  SwampMiniboss  1.0.1<br>

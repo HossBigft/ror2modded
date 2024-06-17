@@ -1,3 +1,8 @@
+`1.6.11`
+
+- Bandit
+	 - Fixed typo in Rack em Up description.
+
 `1.6.10`
 
 - Symbiotic Scorpion

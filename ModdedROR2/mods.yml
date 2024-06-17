@@ -759,7 +759,7 @@
     minor: 9
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\FunkFrog-and-Sipondo-ShareSuite\2.9.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\FunkFrog-and-Sipondo-ShareSuite\icon.png
 - manifestVersion: 1
   name: prodzpod-FasterBossWait2
   authorName: prodzpod
@@ -1664,9 +1664,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 10
+    patch: 11
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.11\icon.png
 - manifestVersion: 1
   name: kking117-FlatItemBuff
   authorName: kking117
