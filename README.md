@@ -32,7 +32,7 @@ List of mods:<br>
  R2API_ContentManagement  1.0.4<br>
  R2API  5.0.5<br>
  TeammateRevival  4.1.4<br>
- ShareSuite  2.8.1<br>
+ ShareSuite  2.9.0<br>
  FasterBossWait2  1.1.5<br>
  QoLChests  1.1.8<br>
  Exchange_Changes  1.0.8<br>

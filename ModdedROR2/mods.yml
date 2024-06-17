@@ -749,17 +749,17 @@
   installMode: managed
   loaders: []
   dependencies:
-    - RiskofThunder-HookGenPatcher-1.2.3
+    - bbepis-BepInExPack-5.4.2114
     - tristanmcpherson-R2API-5.0.5
-    - bbepis-BepInExPack-5.4.2113
+    - RiskofThunder-HookGenPatcher-1.2.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 8
-    patch: 1
+    minor: 9
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\FunkFrog-and-Sipondo-ShareSuite\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\FunkFrog-and-Sipondo-ShareSuite\2.9.0\icon.png
 - manifestVersion: 1
   name: prodzpod-FasterBossWait2
   authorName: prodzpod
@@ -1666,7 +1666,7 @@
     minor: 6
     patch: 10
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.10\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
 - manifestVersion: 1
   name: kking117-FlatItemBuff
   authorName: kking117
