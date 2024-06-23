@@ -62,7 +62,7 @@ List of mods:<br>
  Starstorm2  0.6.7<br>
  Tesla_Trooper  2.2.3<br>
  ChefMod  2.2.12<br>
- Enforcer  3.8.4<br>
+ Enforcer  3.9.0<br>
  JinxMod  1.2.5<br>
  RealerCheatUnlocks  1.0.3<br>
  Ravager  1.3.21<br>

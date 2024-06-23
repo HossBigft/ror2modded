@@ -8,6 +8,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -31,6 +32,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -55,6 +57,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -79,6 +82,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -104,6 +108,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -128,6 +133,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -151,6 +157,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -174,6 +181,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -197,6 +205,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -221,6 +230,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -242,6 +252,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -263,6 +274,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -283,6 +295,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-RoR2BepInExPack-1.9.0
@@ -306,6 +319,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1801
@@ -327,6 +341,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -350,6 +365,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -373,6 +389,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -396,6 +413,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -420,6 +438,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -445,6 +464,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -469,6 +489,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -493,6 +514,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -516,6 +538,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -539,6 +562,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -562,6 +586,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -585,6 +610,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -608,6 +634,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -631,6 +658,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -654,6 +682,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -677,6 +706,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -723,6 +753,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -747,6 +778,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2114
@@ -770,6 +802,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -794,6 +827,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -818,6 +852,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - tristanmcpherson-R2API-4.0.11
@@ -841,6 +876,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.9
@@ -864,6 +900,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -887,6 +924,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2100
@@ -909,6 +947,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2113
@@ -931,6 +970,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - tristanmcpherson-R2API-4.0.11
@@ -955,6 +995,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2113
@@ -976,6 +1017,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.3.1
@@ -999,6 +1041,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1902
@@ -1021,6 +1064,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -1044,6 +1088,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1067,6 +1112,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.9
@@ -1090,6 +1136,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.9
@@ -1112,6 +1159,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2113
@@ -1133,6 +1181,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2108
@@ -1155,6 +1204,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-R2API_RecalculateStats-1.2.0
@@ -1184,6 +1234,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -1207,6 +1258,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - tristanmcpherson-R2API-4.4.1
@@ -1230,6 +1282,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -1252,6 +1305,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.9
@@ -1276,6 +1330,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - tristanmcpherson-R2API-4.4.1
@@ -1298,6 +1353,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -1323,6 +1379,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-R2API_RecalculateStats-1.2.0
@@ -1354,6 +1411,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.9
@@ -1376,6 +1434,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - KingEnderBrine-ScrollableLobbyUI-1.7.6
@@ -1406,6 +1465,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2101
@@ -1435,6 +1495,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1458,23 +1519,24 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 1719133829002
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
-    - RiskofThunder-R2API_Unlockable-1.0.0
+    - RiskofThunder-R2API_Core-5.0.3
+    - RiskofThunder-R2API_Prefab-1.0.1
     - RiskofThunder-R2API_RecalculateStats-1.0.0
+    - RiskofThunder-R2API_Unlockable-1.0.0
     - RiskofThunder-R2API_Director-1.0.0
     - RiskofThunder-R2API_DamageType-1.0.0
-    - RiskofThunder-R2API_Prefab-1.0.1
-    - RiskofThunder-R2API_Core-5.0.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 8
-    patch: 4
+    minor: 9
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-Enforcer\3.9.0\icon.png
 - manifestVersion: 1
   name: lemonlust-JinxMod
   authorName: lemonlust
@@ -1485,6 +1547,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -1515,6 +1578,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-HookGenPatcher-1.2.3
@@ -1538,6 +1602,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1561,6 +1626,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.2103
@@ -1587,6 +1653,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1902
@@ -1611,6 +1678,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1634,6 +1702,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -1655,6 +1724,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1666,7 +1736,7 @@
     minor: 6
     patch: 11
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.11\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
 - manifestVersion: 1
   name: kking117-FlatItemBuff
   authorName: kking117
@@ -1677,6 +1747,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - RiskofThunder-R2API_DamageType-1.0.4
@@ -1706,6 +1777,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.9
@@ -1730,6 +1802,7 @@
   networkMode: both
   packageType: other
   installMode: managed
+  installedAtTime: 0
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.3.1
