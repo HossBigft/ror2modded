@@ -170,7 +170,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\RiskofThunder-R2API_Dot\1.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Dot\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_LobbyConfig
   authorName: RiskofThunder
@@ -1724,7 +1724,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1719750695875
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1734,9 +1734,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 11
+    patch: 12
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.12\icon.png
 - manifestVersion: 1
   name: kking117-FlatItemBuff
   authorName: kking117

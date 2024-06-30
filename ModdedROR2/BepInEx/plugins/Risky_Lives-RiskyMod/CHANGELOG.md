@@ -1,3 +1,8 @@
+`1.6.12`
+
+- Beetle
+	- Reduced vertical hitbox size from 200% -> 100% so it doesn't extend way above them.
+
 `1.6.11`
 
 - Bandit
