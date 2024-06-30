@@ -74,4 +74,5 @@ List of mods:<br>
  FlatItemBuff  1.20.4<br>
  VanillaArtifactsPlus  2.5.4<br>
  SwampMiniboss  1.0.1<br>
+ Celestial_War_Tank  1.0.3<br>
 

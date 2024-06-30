@@ -1736,7 +1736,7 @@
     minor: 6
     patch: 12
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Risky_Lives-RiskyMod\1.6.12\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Risky_Lives-RiskyMod\icon.png
 - manifestVersion: 1
   name: kking117-FlatItemBuff
   authorName: kking117
@@ -1814,3 +1814,33 @@
     patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\rob_gaming-SwampMiniboss\icon.png
+- manifestVersion: 1
+  name: CheeseWithHoles-Celestial_War_Tank
+  authorName: CheeseWithHoles
+  websiteUrl: https://thunderstore.io/package/CheeseWithHoles/Celestial_War_Tank/
+  displayName: Celestial_War_Tank
+  description: Adds a customizable playable character with variety of weapons.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719750780752
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.1905
+    - tristanmcpherson-R2API-5.0.5
+    - RiskofThunder-R2API_Core-5.0.3
+    - RiskofThunder-R2API_Prefab-1.0.1
+    - RiskofThunder-R2API_RecalculateStats-1.0.0
+    - RiskofThunder-R2API_Unlockable-1.0.0
+    - RiskofThunder-R2API_Director-1.0.0
+    - RiskofThunder-R2API_DamageType-1.0.0
+    - KingEnderBrine-ScrollableLobbyUI-1.8.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\CheeseWithHoles-Celestial_War_Tank\1.0.3\icon.png
