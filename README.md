@@ -75,4 +75,5 @@ List of mods:<br>
  VanillaArtifactsPlus  2.5.4<br>
  SwampMiniboss  1.0.1<br>
  Celestial_War_Tank  1.0.3<br>
+ Submariner  1.0.4<br>
 
