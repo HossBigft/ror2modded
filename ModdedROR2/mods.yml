@@ -1877,4 +1877,26 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\tsuyoikenko-Submariner\1.0.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\tsuyoikenko-Submariner\icon.png
+- manifestVersion: 1
+  name: Ambition-Commando_IFrames
+  authorName: Ambition
+  websiteUrl: https://thunderstore.io/package/Ambition/Commando_IFrames/
+  displayName: Commando_IFrames
+  description: Gives Commando iframes (invincibility frames) on roll and slide
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719750856982
+  loaders: []
+  dependencies:
+    - tristanmcpherson-R2API-5.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Ambition-Commando_IFrames\1.0.1\icon.png
