@@ -157,20 +157,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1719750546667
   loaders: []
   dependencies:
-    - RiskofThunder-HookGenPatcher-1.2.3
     - bbepis-BepInExPack-5.4.2109
-    - RiskofThunder-R2API_Core-5.0.8
+    - RiskofThunder-HookGenPatcher-1.2.3
+    - RiskofThunder-R2API_Core-5.1.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-R2API_Dot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\RiskofThunder-R2API_Dot\1.0.2\icon.png
 - manifestVersion: 1
   name: RiskofThunder-R2API_LobbyConfig
   authorName: RiskofThunder
@@ -1536,7 +1536,7 @@
     minor: 9
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\EnforcerGang-Enforcer\3.9.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
 - manifestVersion: 1
   name: lemonlust-JinxMod
   authorName: lemonlust

@@ -7,7 +7,7 @@ List of mods:<br>
  R2API_TempVisualEffect  1.0.2<br>
  R2API_Director  2.1.0<br>
  R2API_CommandHelper  1.0.1<br>
- R2API_Dot  1.0.1<br>
+ R2API_Dot  1.0.2<br>
  R2API_LobbyConfig  1.0.1<br>
  R2API_Difficulty  1.1.2<br>
  BepInEx_GUI  3.0.3<br>
