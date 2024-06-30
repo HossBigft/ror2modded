@@ -1,0 +1,58 @@
+- **1.0.8**
+	- Projectile visual now originates from the cannon
+	- Increased projectile velocity (range is unchanged)
+	- Fixed projectile explosion sometimes not appearing
+	- Improved animation behaviour with extreme attack speed
+	- Fixed not being able to hover on a couple of surfaces
+- **1.0.7**
+	- The Magrider now has an animated cannon attached to its model
+	- The side knobs now depress with magfuel spent
+	- Fixed audio not scalling with the sfx volume slider
+	- Improved friction, bustling fungus is now more procable
+	- Improved how hover works, should now bump against the floor less
+	- Slightly increased collision cooldown
+	- Added a toggle to the velocity text
+	- Created a Vector2 option window for RiskOfOptions
+- **1.0.6**
+	- Added horn sounds
+	- Improved fuel network syncing
+	- Improved fuel bar visuals
+	- Slightly increased friction
+	- Added model fading on high camera pitches
+	- Reduced projectile size
+	- Disabled Genesis Loop's log spam
+- **1.0.5**
+	- Added automatic sprinting with forward input
+	- Fixed utility skill overriders not having a cooldown
+	- Fixed collision damage usually not being able to proc items
+	- Improved descriptions and an icon
+	- Disabled vanilla's sprint lines for the Magrider
+	- Increased the cooldown of repeated collisions against the same enemy, and aded a config for it
+	- Buffed the reload time of the Perihlion Blaster slightly
+	- Camera settings will be remembered between updates from now on
+	- Improved RiskofOptions support
+- **1.0.4**
+	- Changed the hurt box of the Magrider from one big capsule to a hull mesh
+	- Fixed the fuel bar not properly updating target in multiplayer
+- **1.0.3**
+	- Stick strength 20 -> 10
+	- Interaction range 9 -> 8
+	- Collision damage multiplier 1 -> 0.8, and velocity threshold increased
+	- Flat armor plating per level 0.5 -> 0.4
+	- Improved the audio on Recharge
+	- A few other minor bug fixes
+- **1.0.2**
+	- Fixed jump-pads' impulse behaviour, and disable air drag until hover touches the ground. It is now possible to jump-pad to the moon arena
+	- Most if not all enemies should take collision damage now
+	- Changed the knockback physics of collisions against collidable enemies
+	- Fixed attack speed being bugged
+	- Added an option to disable third person camera roll rotation
+	- Magrider's hull is now affected by visual materials such as freeze and shield
+	- Added a new skin
+	- Added Risk of Options support
+	- Lowered base acceleration from 25 to 20
+	- Slightly adjusted hover
+- **1.0.1**
+	- Added some flat armor (same mechanic as Repulsion Plate). Value is 2 + 0.5 * level.   
+	The goal of this is to make multi attacks less devastating as they were balanced around much smaller hitboxes. Will also give a feel of light attacks being less effective against the armor character.
+	- Fixed Plasma Cannon not reloading properly in some cases 

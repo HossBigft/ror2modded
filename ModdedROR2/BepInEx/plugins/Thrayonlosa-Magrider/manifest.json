@@ -1,0 +1,11 @@
+{
+    "name": "Magrider",
+    "version_number": "1.0.8",
+    "website_url": "",
+    "description": "The Magrider is an alien-derived hover tank that, despite its bulk, relies on mobility to stay alive. Multiplayer compatible.",
+    "dependencies": [
+		"RiskofThunder-R2API_Prefab-1.0.3",
+		"RiskofThunder-R2API_ContentManagement-1.0.4",
+		"RiskofThunder-R2API_Language-1.0.1"
+    ]
+}

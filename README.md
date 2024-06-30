@@ -76,4 +76,6 @@ List of mods:<br>
  SwampMiniboss  1.0.1<br>
  Celestial_War_Tank  1.0.3<br>
  Submariner  1.0.4<br>
+ Commando_IFrames  1.0.1<br>
+ Magrider  1.0.8<br>
 

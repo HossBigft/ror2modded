@@ -1899,4 +1899,29 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Ambition-Commando_IFrames\1.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Ambition-Commando_IFrames\icon.png
+- manifestVersion: 1
+  name: Thrayonlosa-Magrider
+  authorName: Thrayonlosa
+  websiteUrl: https://thunderstore.io/package/Thrayonlosa/Magrider/
+  displayName: Magrider
+  description: The Magrider is an alien-derived hover tank that, despite its bulk,
+    relies on mobility to stay alive. Multiplayer compatible.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719750907670
+  loaders: []
+  dependencies:
+    - RiskofThunder-R2API_Prefab-1.0.3
+    - RiskofThunder-R2API_ContentManagement-1.0.4
+    - RiskofThunder-R2API_Language-1.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Thrayonlosa-Magrider\1.0.8\icon.png
