@@ -60,7 +60,7 @@ List of mods:<br>
  MoonstormSharedUtils  1.6.3<br>
  ScrollableLobbyUI  1.8.0<br>
  Starstorm2  0.6.7<br>
- Tesla_Trooper  2.2.3<br>
+ Tesla_Trooper  2.2.4<br>
  ChefMod  2.2.12<br>
  Enforcer  3.9.0<br>
  JinxMod  1.2.5<br>
