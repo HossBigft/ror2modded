@@ -1484,7 +1484,7 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\TheTimesweeper-Tesla_Trooper\2.2.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\TheTimesweeper-Tesla_Trooper\icon.png
 - manifestVersion: 1
   name: Gnome-ChefMod
   authorName: Gnome
@@ -1824,7 +1824,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719750780752
+  installedAtTime: 1719912703090
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1840,10 +1840,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 3
+    minor: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\CheeseWithHoles-Celestial_War_Tank\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\CheeseWithHoles-Celestial_War_Tank\1.1.2\icon.png
 - manifestVersion: 1
   name: tsuyoikenko-Submariner
   authorName: tsuyoikenko
