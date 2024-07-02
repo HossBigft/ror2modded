@@ -1843,7 +1843,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\CheeseWithHoles-Celestial_War_Tank\1.1.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\CheeseWithHoles-Celestial_War_Tank\icon.png
 - manifestVersion: 1
   name: tsuyoikenko-Submariner
   authorName: tsuyoikenko
@@ -1854,7 +1854,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719750821383
+  installedAtTime: 1719912749302
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1875,9 +1875,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\tsuyoikenko-Submariner\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\tsuyoikenko-Submariner\1.0.6\icon.png
 - manifestVersion: 1
   name: Ambition-Commando_IFrames
   authorName: Ambition
