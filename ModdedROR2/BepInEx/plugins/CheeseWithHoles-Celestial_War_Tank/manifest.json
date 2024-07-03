@@ -1,7 +1,7 @@
 {
   "name": "Celestial_War_Tank",
   "author": "CheeseWithHoles",
-  "version_number": "1.1.2",
+  "version_number": "1.1.4",
   "website_url": "",
   "description": "Adds a customizable playable character with variety of weapons.",
   "dependencies": [
@@ -13,6 +13,7 @@
     "RiskofThunder-R2API_Unlockable-1.0.0",
     "RiskofThunder-R2API_Director-1.0.0",
     "RiskofThunder-R2API_DamageType-1.0.0",
-	"KingEnderBrine-ScrollableLobbyUI-1.8.0"
+	"KingEnderBrine-ScrollableLobbyUI-1.8.0",
+	"Rune580-Risk_Of_Options-2.8.0"
   ]
 }

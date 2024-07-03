@@ -1824,7 +1824,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719912703090
+  installedAtTime: 1719999952688
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1836,14 +1836,15 @@
     - RiskofThunder-R2API_Director-1.0.0
     - RiskofThunder-R2API_DamageType-1.0.0
     - KingEnderBrine-ScrollableLobbyUI-1.8.0
+    - Rune580-Risk_Of_Options-2.8.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 2
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\CheeseWithHoles-Celestial_War_Tank\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\CheeseWithHoles-Celestial_War_Tank\1.1.4\icon.png
 - manifestVersion: 1
   name: tsuyoikenko-Submariner
   authorName: tsuyoikenko
@@ -1877,7 +1878,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\tsuyoikenko-Submariner\1.0.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\tsuyoikenko-Submariner\icon.png
 - manifestVersion: 1
   name: Ambition-Commando_IFrames
   authorName: Ambition

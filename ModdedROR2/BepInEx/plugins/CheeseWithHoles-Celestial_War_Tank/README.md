@@ -15,10 +15,7 @@ Adds a tank, which is customizable in hundreds of many ways. A physics-based sur
 [ScrollableLobbyUI](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI/) mod is highly recommended.
 
 `Incompatible Mods`
-<br/>• RTAutoSprint Ex
-<br/>• RiskUI 
 <br/>• SkinTuner
-<br/>• ImprovedUI
 
 I will fix these eventually.
 
@@ -32,6 +29,36 @@ If you find any bugs or exploits, please contact `h_hyper#6070` on discord (you 
 `H_Hyper` Playtester and making certain skill icons.
 
 # Updates
+`1.1.4` QoL
+<br/>• Grenade Launcher damage increased to 4x250% (from 4x200%).
+<br/>• Knocker Cannon damage increased to 1350% (from 1300%).
+<br/>• Self-Destruct radius increased to 30m (from 25m).
+<br/>• Power diminish stat (thruster + utility) now 0 (from 0.5). You can now jump thrust with utility combo.
+<br/>• All cooldown items (non-mod) now affect Minigun.
+<br/>• Howitzer when failing to charge now spews out a silly useless shell.
+<br/>• Weapons effects now have visual lighting.
+<br/>• Minigun and Piercing Cannon now get slight knockback on use; Crit Cannon and Basic Cannon knockback slightly stronger.
+<br/>• Landing stunts now grants you temporary speed.
+<br/>• Now able to disable gauges in config (Risk of Options).
+<br/>• Added/fixed descriptions for M1s, now giving accuracy and miscellaneous text.
+<br/>• RiskOfOptions mod now a required dependency.
+
+`1.1.3`
+<br/>• French gun can now hold to fire.
+<br/>• Alien Head now affects Minigun's fire-rate.
+<br/>• Reworked AA Cannon - now deals 300% base damage; projectile explosion only detects air targets, dealing 3.5x base damage. Fixed detection and damage consistency issues.
+<br/>• Reworked Artillery Cannon - can now hold to aim like REIGN (doesn't require charge).
+<br/>• Fixed issue where tank doesn't land on the ground when activating thrusters in-air at the last second.
+<br/>• Fixed issue where tank may not land when using thrust for less than a second.
+<br/>• Fixed issue where holding down thrusters without tilt can send tank into the stratosphere.
+<br/>• Fixed REIGN from resetting the cooldown of a 2nd charge when possessing Lysate Cell.
+<br/>• Fixed REIGN and Artillery Cannon from not shooting when hugging an enemy.
+<br/>• Thruster velocity now matches the mass of the vehicles more accurately.
+<br/>
+<br/>• Mod now compatible with RiskUI.
+<br/>• Added config to change the keybind of the horn (can change via Risk of Options).
+<br/>• Note: ImprovedUI did not conflict with the Celestial War Tank; RTAutoSprintEx no longer conflicts with the tank.
+
 `1.1.2`
 <br/>• Fixed certain tank physics from not working.
 <br/>• Super Jump non-sprint effect lowered.
