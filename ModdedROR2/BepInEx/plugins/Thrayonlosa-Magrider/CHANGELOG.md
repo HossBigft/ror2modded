@@ -1,3 +1,10 @@
+- **1.0.9**
+	- Fixed other players not being able to ride the Magrider
+	- Added Headstompers support, will have a jump boost while grounded and can use the slam
+	- Secondary stock now gives max fuel capacity, but does not affect the amount recovered by Recharge
+	- Voidling pull now affects the Magrider
+	- Improved friction, bustling fungus is now more procable
+	- Minor improvments to the Vector2 option window
 - **1.0.8**
 	- Projectile visual now originates from the cannon
 	- Increased projectile velocity (range is unchanged)

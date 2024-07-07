@@ -1844,7 +1844,7 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\CheeseWithHoles-Celestial_War_Tank\1.1.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\CheeseWithHoles-Celestial_War_Tank\icon.png
 - manifestVersion: 1
   name: tsuyoikenko-Submariner
   authorName: tsuyoikenko
@@ -1906,13 +1906,13 @@
   authorName: Thrayonlosa
   websiteUrl: https://thunderstore.io/package/Thrayonlosa/Magrider/
   displayName: Magrider
-  description: The Magrider is an alien-derived hover tank that, despite its bulk,
-    relies on mobility to stay alive. Multiplayer compatible.
+  description: The Magrider is an alien-derived hover tank that relies on mobility
+    to stay alive, despite its bulk. Multiplayer compatible.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719750907670
+  installedAtTime: 1720376752890
   loaders: []
   dependencies:
     - RiskofThunder-R2API_Prefab-1.0.3
@@ -1923,6 +1923,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Thrayonlosa-Magrider\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Thrayonlosa-Magrider\1.0.9\icon.png

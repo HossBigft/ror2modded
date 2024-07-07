@@ -1,9 +1,10 @@
-## Mechanics
+## Core Mechanics
 - The Magrider does not have a free camera, instead you are locked to its yaw and roll, and only have limited pitch. Looking left or right will apply yaw to the vehicle, turning it and thus subsequently the camera.
 - Hovers above the ground beneath its hull, including walls
 - Its hull is much larger than normal surivors, small movements will not be enough to avoid attacks
 - Side movement is weaker than forwards
 - Has an afterburner as its main source of burst mobility
+- Collision against enemies will deal damage and knockback to them.
 
 ## Primary Cannons
 - Its weapons are fixed turrets, meaning that the entire hull needs to be turned to facing the target to be able to shoot them.
@@ -25,17 +26,20 @@
 - Holding down jump will apply a force and torque in the world vertical direction.
 - Useful for deflipping or scalling vertical walls.
 - Jump force scales with Hopoo Feathers, torque scales with Wax Quails.
+- Having Headstompers will give a jump boost while grounded
 
 ## Other
-- If you are vulnerable to motion sickness turning off third person camera roll might help
 - The secondary toggles between first-person mode. Can be changed to be while held in config.
-- Pressing by default x will sound a horn
+- Bonuses to secondary stock will increase maximum fuel, but not the amount recovered by Recharge
 - Theres a mechanic that will try to keep the Magrider sticked to vertical walls that it is hovering against.
 - The character has flat armor plating (same mechanic as Repulsion Plate) equal to 2 + 0.4 * level to help deal with light multi attacks
-- Collision against enemies will deal damage and knockback to them.
+- Will automatically sprint when doing forward thrust
+- Pressing by default x will sound a horn
+
+## Notes
+- If you are vulnerable to motion sickness turning off third person camera roll might help
 - Has functional AI.
 - The character is of around medium strength compared to the vanilla survivors.
 - Config can be reloaded ingame with the *magriderreloadconfig* command.
 - Has Risk of Options support
-- Will automatically sprint when doing forward thrust
 - The Magrider is of the famous and well renowned game, planetside.

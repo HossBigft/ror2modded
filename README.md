@@ -12,7 +12,7 @@ List of mods:<br>
  R2API_Difficulty  1.1.2<br>
  BepInEx_GUI  3.0.3<br>
  FixPluginTypesSerialization  1.0.4<br>
- RoR2BepInExPack  1.14.0<br>
+ RoR2BepInExPack  1.15.0<br>
  BepInExPack  5.4.2114<br>
  HookGenPatcher  1.2.3<br>
  R2API_Core  5.1.0<br>
@@ -74,8 +74,8 @@ List of mods:<br>
  FlatItemBuff  1.20.4<br>
  VanillaArtifactsPlus  2.5.4<br>
  SwampMiniboss  1.0.1<br>
- Celestial_War_Tank  1.1.4<br>
+ Celestial_War_Tank  1.1.5<br>
  Submariner  1.0.6<br>
  Commando_IFrames  1.0.1<br>
- Magrider  1.0.8<br>
+ Magrider  1.0.9<br>
 
