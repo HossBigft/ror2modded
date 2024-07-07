@@ -29,6 +29,9 @@ If you find any bugs or exploits, please contact `h_hyper#6070` on discord (you 
 `H_Hyper` Playtester and making certain skill icons.
 
 # Updates
+`1.1.5`
+<br/>• Fixed speed from going to fast after successful landing after a stunt. (only affected non-host players)
+
 `1.1.4` QoL
 <br/>• Grenade Launcher damage increased to 4x250% (from 4x200%).
 <br/>• Knocker Cannon damage increased to 1350% (from 1300%).

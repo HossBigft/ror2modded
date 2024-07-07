@@ -284,7 +284,7 @@
     minor: 15
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\RiskofThunder-RoR2BepInExPack\1.15.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-RoR2BepInExPack\icon.png
 - manifestVersion: 1
   name: bbepis-BepInExPack
   authorName: bbepis
@@ -1824,7 +1824,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719999952688
+  installedAtTime: 1720376718746
   loaders: []
   dependencies:
     - bbepis-BepInExPack-5.4.1905
@@ -1842,9 +1842,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 4
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\CheeseWithHoles-Celestial_War_Tank\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\CheeseWithHoles-Celestial_War_Tank\1.1.5\icon.png
 - manifestVersion: 1
   name: tsuyoikenko-Submariner
   authorName: tsuyoikenko
