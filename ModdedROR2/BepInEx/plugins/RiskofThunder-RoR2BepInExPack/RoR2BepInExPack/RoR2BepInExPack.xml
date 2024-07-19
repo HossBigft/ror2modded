@@ -4,36 +4,6 @@
         <name>RoR2BepInExPack</name>
     </assembly>
     <members>
-        <member name="T:RoR2BepInExPack.NativeStructs.GameObjectStruct">
-            <summary>
-            Part of a native struct for GameObject
-            </summary>
-        </member>
-        <member name="T:RoR2BepInExPack.UnityEngineHooks.DestroyGameObjectRecursiveNullCheck">
-            <summary>
-            <see cref="T:RoR2BepInExPack.UnityEngineHooks.PreDestroyRecursiveNullCheck"/> for explanation.
-            Adds a null check to DestroyGameObjectRecursive native function.
-            </summary>
-        </member>
-        <member name="F:RoR2BepInExPack.UnityEngineHooks.DestroyGameObjectRecursiveNullCheck.Offset">
-            <summary>
-            Function offset inside UnityPlayer.dll
-            </summary>
-        </member>
-        <member name="T:RoR2BepInExPack.UnityEngineHooks.PreDestroyRecursiveNullCheck">
-            <summary>
-            Some mods add prefabs loaded from asset bundles directly as children
-            to runtime prefabs instantiated with PrefabsAPI.InstantiateClone.
-            And it seems like these prefabs are destroyed before runtime prefabs when the game is closing,
-            which results in a harmless, but certainly annoying crash.
-            Adds a null check to PreDestroyRecursive native function.
-            </summary>
-        </member>
-        <member name="F:RoR2BepInExPack.UnityEngineHooks.PreDestroyRecursiveNullCheck.Offset">
-            <summary>
-            Function offset inside UnityPlayer.dll
-            </summary>
-        </member>
         <member name="T:RoR2BepInExPack.VanillaFixes.FixHasEffectiveAuthority">
             <summary>
             On a server there is a short time when authority is not assigned yet the object should have authority.

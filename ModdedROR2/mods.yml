@@ -274,17 +274,17 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720376661932
+  installedAtTime: 1721373452348
   loaders: []
   dependencies: []
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 15
+    minor: 16
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\RiskofThunder-RoR2BepInExPack\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\RiskofThunder-RoR2BepInExPack\1.16.0\icon.png
 - manifestVersion: 1
   name: bbepis-BepInExPack
   authorName: bbepis
@@ -1925,4 +1925,4 @@
     minor: 0
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Thrayonlosa-Magrider\1.0.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\ModdedROR2\BepInEx\plugins\Thrayonlosa-Magrider\icon.png
