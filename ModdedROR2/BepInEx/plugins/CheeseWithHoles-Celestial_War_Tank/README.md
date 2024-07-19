@@ -24,11 +24,16 @@ If you find any bugs or exploits, please contact `h_hyper#6070` on discord (you 
 
 # Credits
 
-`CheeseWithHoles` Developer.
+`CheeseWithHoles` Developer of this mod.
 
 `H_Hyper` Playtester and making certain skill icons.
 
 # Updates
+`1.1.6`
+<br/>• Removed extra cannon skill.  (It wasn't suppose to be reveiled yet).
+<br/>• HP scaling with light builds is now better and accurate.
+<br/>• Visions of Heresy no longer makes tank body aim at crosshair.  (sort of works.  It twitches everytime the primary is used.)
+
 `1.1.5`
 <br/>• Fixed speed from going to fast after successful landing after a stunt. (only affected non-host players)
 

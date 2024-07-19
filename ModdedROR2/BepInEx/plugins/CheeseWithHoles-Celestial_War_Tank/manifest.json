@@ -1,7 +1,7 @@
 {
   "name": "Celestial_War_Tank",
   "author": "CheeseWithHoles",
-  "version_number": "1.1.5",
+  "version_number": "1.1.6",
   "website_url": "",
   "description": "Adds a customizable playable character with variety of weapons.",
   "dependencies": [
